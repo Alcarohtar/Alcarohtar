@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alcarohtar (Luigi Rocco). I'm an electronic engineer.
 I work on a big automotive company as sw engineer
-- 👀 I’m interested in music, photography an naturally all concern about Sw, tecnology
+- 👀 I’m interested in music, photography and of course all concern about tecnology and Sw world 
 - 🌱 I’m currently learning python language
 - 📫 How to reach me: luigirocco86@gmail.com 
 
